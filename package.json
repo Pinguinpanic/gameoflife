@@ -1,0 +1,13 @@
+{
+  "name": "gameoflife",
+  "version": "0.0.1",
+  "description": "simple game of life",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }
+}
